@@ -6,5 +6,4 @@
 .next
 .vercel
 Brewfile.lock.json
-dist
 node_modules
